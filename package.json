@@ -1,0 +1,28 @@
+{
+  "name": "realworld-nuxtjs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nuxt"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/myxiangdong/realworld-nuxtjs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/myxiangdong/realworld-nuxtjs/issues"
+  },
+  "homepage": "https://github.com/myxiangdong/realworld-nuxtjs#readme",
+  "dependencies": {
+    "axios": "^0.21.0",
+    "cookieparser": "^0.1.0",
+    "dayjs": "^1.9.7",
+    "js-cookie": "^2.2.1",
+    "markdown-it": "^12.0.3",
+    "nuxt": "^2.14.11"
+  }
+}
