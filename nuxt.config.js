@@ -52,7 +52,12 @@ module.exports = {
     }
   },
 
-   // 注册插件
+  server: {
+    host: '0.0.0.0',
+    port: 3000
+  },
+
+  // 注册插件
   plugins: [
     '~/plugins/request.js',
     '~/plugins/dayjs.js'
